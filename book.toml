@@ -1,0 +1,7 @@
+[book]
+authors = ["Niko Matsakis"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Dyn Vision Doc"
+repository = "https://github.com/nikomatsakis/dyn-vision-doc"
